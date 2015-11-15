@@ -81,10 +81,9 @@
         <div class="thv">
             <div class="hvcontent" style="background: url(./img/bg3_bleu_motif.png);">
                 <div class="thintext" style="margin:0 auto; padding: 30px 10% 70px 10%; font-size:20px; text-align: justify; text-justify: inter-word;">
-                    <video width="1450" height="600" controls="controls">
-                      <source src="./img/video_MAYAO.mp4" type="video/mp4" />
-                    </video>
-                    Le personal shopping selon Mayao
+                    <iframe id="player" type="text/html" width="1450" height="600"
+  src="https://www.youtube.com/embed/HAK2faFqZ6o"
+  frameborder="0"></iframe>
                 </div>
             </div>
         </div>
@@ -105,7 +104,7 @@
         <div class="navtop"></div>
 
         <div class="thv">
-            <div class="hvcontent" style="background: url(./img/bg3_bleu_motif.png);">
+            <div class="hvcontent" style="background: url(./img/bg2_jaune_motif.png);">
                 <div class="thintext" style="margin:0 auto; padding: 30px 10% 70px 10%; font-size:20px; text-align: justify; text-justify: inter-word;">
                     <div class="bold center xxltext" style="margin-bottom:60px;">Le personal shopping c'est quoi ?</div>
                     C'est <i><span class="bold">EFFICACE</span>, <span class="bold">ACCESSIBLE</span></i> et <i><span class="bold">AGRÉABLE</span></i> !<br><br>
@@ -133,7 +132,7 @@
         <div class="navtop"></div>
         
         <div class="thv">
-            <div class="hvcontent" style="background: url(./img/bg2_jaune_motif.png);">
+            <div class="hvcontent" style="background: url(./img/bg3_bleu_motif.png);">
                 <div class="thintext" style="margin:0 auto; padding: 30px 10% 70px 10%; font-size:20px; text-align: justify; text-justify: inter-word;">
                     <div class="bold center xxltext" style="margin-bottom:60px;">Qui sont les personal shoppers ?</div>
                     Ce sont des <span class="bold">passionnés de mode</span> qui vous veulent du bien.<br>
@@ -158,7 +157,7 @@
         <div class="navtop"></div>
         
         <div class="thv">
-            <div class="hvcontent" style="background: url(./img/bg3_bleu_motif.png);">
+            <div class="hvcontent" style="background: url(./img/bg2_jaune_motif.png);">
                 <div class="thintext" style="margin:0 auto; padding: 30px 10% 70px 10%; font-size:20px; text-align: justify; text-justify: inter-word;">
                     <div class="bold center xxltext" style="margin-bottom:60px;">Charte éthique des personal shoppers</div>
                     Les personal shoppers présents sur MAYAO <span class="bold">s'engagent :</span><br><br>
@@ -187,7 +186,7 @@
         <div class="navtop"></div>
         
         <div class="thv">
-            <div class="hvcontent" style="background: url(./img/bg2_jaune_motif.png);">
+            <div class="hvcontent" style="background: url(./img/bg3_bleu_motif.png);">
                 <div class="thintext" style="margin:0 auto; padding: 30px 10% 70px 10%; font-size:20px; text-align: justify; text-justify: inter-word;">
                     <div class="bold center xxltext" style="margin-bottom:60px;">Quels sont les différents services de personal shopping ?</div>
                     Débordés ? Déboussolés ? Curieux ? Passionnés ?<br><br>

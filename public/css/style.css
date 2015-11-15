@@ -1859,7 +1859,10 @@ table.table td, table.table th {
     #how .content, #what .content, #who .content, #charter .content, #services .content, #vid .hvcenter {
         padding-top: 0;
     }
-
+    #player{
+        width:300px;
+        height:auto;
+    }
     table.table td, table.table th {
         padding: 5px;
         font-size: 12px;
@@ -1997,5 +2000,6 @@ table.table td, table.table th {
     .mobreg {
         display: inherit !important;
     }
+
     
 }
