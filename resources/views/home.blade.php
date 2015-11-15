@@ -71,6 +71,35 @@
         </div>
     </div>
     
+
+    <div id="vid" class="section scroll">
+       
+        @include('nav', ['d' => 3, 'ps' => true])
+
+        <div class="navtop"></div>
+
+        <div class="thv">
+            <div class="hvcontent" style="background: url(./img/bg3_bleu_motif.png);">
+                <div class="thintext" style="margin:0 auto; padding: 30px 10% 70px 10%; font-size:20px; text-align: justify; text-justify: inter-word;">
+                    <video width="400" height="222" controls="controls">
+                      <source src="video.mp4" type="video/mp4" />
+                      <source src="video.webm" type="video/webm" />
+                      <source src="video.ogv" type="video/ogg" />
+                      Ici l'alternative à la vidéo : un lien de téléchargement, un message, etc.
+                    </video>
+                </div>
+            </div>
+        </div>
+
+        <div id="who" class="navbottom">
+            <a href="#who">QUI SONT LES PERSONAL SHOPPERS ?</a>
+            <img src="./img/Forme-2.png">
+        </div>
+    </div>
+
+
+
+
     <div id="what" class="section scroll">
        
         @include('nav', ['d' => 3, 'ps' => true])
@@ -181,6 +210,8 @@
             <img class="up" src="./img/Forme-2-haut.png">
         </div>
     </div>
+
+
 
 </div> 
 @endsection

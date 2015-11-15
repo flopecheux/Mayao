@@ -1844,7 +1844,7 @@ table.table td, table.table th {
         margin-top: 30px;
     }
     
-    #how .hvcenter, #what .hvcenter, #who .hvcenter, #charter .hvcenter, #services .hvcenter {
+    #how .hvcenter, #what .hvcenter, #who .hvcenter, #charter .hvcenter, #services .hvcenter, #vid .hvcenter {
         position: inherit;
         display: block;
         top: inherit;
@@ -1856,7 +1856,7 @@ table.table td, table.table th {
         padding-bottom: 80px;
     }
 
-    #how .content, #what .content, #who .content, #charter .content, #services .content {
+    #how .content, #what .content, #who .content, #charter .content, #services .content, #vid .hvcenter {
         padding-top: 0;
     }
 
